@@ -1,4 +1,5 @@
 # einstein2
 Einstein Image Machine Learning
 
-This is my first time really using git - good luck to me!
+git clone https://github.com/salesforceidentity/jwt
+git clone https://github.com/MetaMind/apex-utils
